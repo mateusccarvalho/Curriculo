@@ -20,8 +20,3 @@ Este projeto consiste em uma página web responsiva que exibe informações do c
 - `css/resume.css`: Estilo personalizado para a página do currículo.
 - `img/`: Pasta para imagens, incluindo a foto de perfil.
 
-## 📜 Instruções de Uso
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
