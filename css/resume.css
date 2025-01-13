@@ -72,7 +72,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #F1C911;
+  background-color: #000000;
 }
 
 .dev-icons {
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #F1C911;
+  color: #000000;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -120,13 +120,14 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.6);
+    border: 0.5rem solid rgba(29, 27, 18, 0.6);
   }
   #sideNav .navbar-collapse {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: start;
+    
     -ms-flex-align: start;
     align-items: flex-start;
     -webkit-box-flex: 0;
@@ -177,15 +178,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #F1C911 !important;
+  background-color: #1d1b12 !important;
 }
 
 .text-primary {
-  color: #F1C911 !important;
+  color: #1d1b12 !important;
 }
 
 a {
-  color: #F1C911;
+  color: #1d1b12;
 }
 
 a:hover, a:focus, a:active {
